@@ -3,7 +3,7 @@ package tudelft.chocolate;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class ChocolateBagsBeforeBoundaryTest {
+public class  ChocolateBagsBeforeBoundaryTest {
     @Test
     public void totalIsBiggerThanAmountOfBars() {
         ChocolateBags bags = new ChocolateBags();
